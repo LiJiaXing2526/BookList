@@ -1,8 +1,8 @@
 # 小说管理系统
 
 ## 项目简介
-这是一个基于Spring Boot+Vue的前后端不分离的项目，小说展示管理系统，提供小说信息的增删改查功能。
-项目借鉴：https://github.com/Crashinging/ssmp，后端原创，前端表格样式借鉴
+- 这是一个基于Spring Boot+Vue的前后端不分离的项目，小说展示管理系统，提供小说信息的增删改查功能。
+- 项目借鉴：https://github.com/Crashinging/ssmp 后端原创，前端表格样式借鉴
 
 ## 页面展示
 ![image](https://github.com/user-attachments/assets/b748c82a-b00d-45a8-b270-72562c8ba39e)
@@ -10,14 +10,15 @@
 
 
 ## 技术栈
-- Spring Boot: 项目基础框架
-- MySQL: 数据库管理系统
-- JPA: 数据持久化层
-- Thymeleaf: 视图模板引擎
-- HTML: 页面结构
-- CSS: 页面样式
-- JavaScript: 页面交互
-
+### 后端：
+- Spring Boot 2
+- MySQL 8.4.4
+- JPA
+- Thymeleaf
+### 前端
+- Vue 2
+- ElementUI
+- Axios
 
 ## 使用说明
 ### 1. 创建数据库：
