@@ -32,4 +32,5 @@
 ### 4. 启动后端：
    - 在项目根目录执行: `mvn spring-boot:run`
    - 或直接运行src/main/java/com/example/book/BookApplication.java
-### 5. 访问 `http://localhost:8081/pages/books.html` 进入系统
+### 5. 访问前端界面
+`http://localhost:8081/pages/books.html` 进入系统
