@@ -24,9 +24,9 @@
 ### 2. 配置数据库连接：
    - 打开application.yml文件
    - 修改以下配置：
-     spring.datasource.url=jdbc:mysql://localhost:3306/book_management
-     spring.datasource.username=root
-     spring.datasource.password=your_password
+   - spring.datasource.url=jdbc:mysql://localhost:3306/book_management
+   - spring.datasource.username=root
+   - spring.datasource.password=your_password
 ### 3. 导入Maven依赖：
    - 在项目根目录执行: `mvn clean install`
 ### 4. 启动后端：
