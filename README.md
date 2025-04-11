@@ -4,7 +4,8 @@
 这是一个基于Spring Boot+Vue的前后端不分离的项目，小说展示系统，提供小说信息的增删改查功能。
 
 ## 页面展示
-image.png
+![image](https://github.com/user-attachments/assets/b748c82a-b00d-45a8-b270-72562c8ba39e)
+
 
 
 ## 技术栈
